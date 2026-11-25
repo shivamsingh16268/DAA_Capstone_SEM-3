@@ -1,0 +1,46 @@
+
+{
+    "vehicle_capacity": 10,
+    "parcels": [
+        {
+            "id": "P1",
+            "priority": 2,
+            "deadline": 5,
+            "weight": 2,
+            "value": 30,
+            "destination": "B"
+        },
+        {
+            "id": "P2",
+            "priority": 5,
+            "deadline": 2,
+            "weight": 3,
+            "value": 40,
+            "destination": "C"
+        },
+        {
+            "id": "P3",
+            "priority": 1,
+            "deadline": 8,
+            "weight": 4,
+            "value": 50,
+            "destination": "D"
+        },
+        {
+            "id": "P4",
+            "priority": 4,
+            "deadline": 3,
+            "weight": 5,
+            "value": 60,
+            "destination": "E"
+        },
+        {
+            "id": "P5",
+            "priority": 3,
+            "deadline": 6,
+            "weight": 6,
+            "value": 70,
+            "destination": "B"
+        }
+    ]
+}
